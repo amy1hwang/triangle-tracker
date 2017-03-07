@@ -14,7 +14,7 @@ Make a web page that allows the user to input the lengths of the sides of a tria
 * Then open the webpage via a browser of your choice.
 
 # link to site on GitHub Pages
-https://amy1hwang.github.io/roman
+https://amy1hwang.github.io/triangle-tracker
 
 # copyright and license information
 Copyright (c) 2016 Amy Hwang. This software is licensed under the Github license.
