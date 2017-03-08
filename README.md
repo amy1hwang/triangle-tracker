@@ -1,6 +1,5 @@
 # Triangle-Tracker
-## for Epicodus, 10.17.2016
-## by Amy Hwang and James Lee
+## by Amy Hwang and James Lee | 10.17.2016
 
 # description of program
 Make a web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. Here are the definitions of each possibility:
